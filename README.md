@@ -3,28 +3,39 @@
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemanth0411.Hemanth0411" /> </div>
 <h1 align="center">Hey there 👋 I'm Hemanth Reddy Annem</h1>
 <h3 align="left">🔍 About Me</h3> <p align="left"> I'm a curious and driven AI/ML enthusiast from Hyderabad, India 🇮🇳.<br><br> - 🎓 3rd Year B.Sc Computer Science student at Vishwa Vishwani Institute of Systems and Management<br> - 💡 Passionate about research in <strong>Artificial Intelligence, Machine Learning, Generative AI, and Agentic Systems</strong><br> - 🤖 Currently developing intelligent agents for automating mobile/web app interaction and documentation<br> - 🛠️ Worked on backend systems using Django, developed AI-driven web tools, and created visual AI agents<br> - 🧠 Exploring advanced topics like prompt engineering, Langchain, and multi-agent systems<br> - ⚡ Fun Fact: I love bridging the gap between AI research and real-world automation! </p>
-<h3 align="left">🧰 Languages & Tools</h3> 
-<div align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="25" /> 
-    <img src="https://img.shields.io/badge/Keras-red?logo=keras&style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/Computer Vision-blue?style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/Machine Learning-yellow?style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/Deep Learning-purple?style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/Reinforcement Learning-008080?style=flat-square" height="20" /> 
-    <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=OpenAI&logoColor=white" height="20" /> 
+<h3 align="left">🧰 Languages & Tools</h3>
+
+<!-- Row 1 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" style="margin: 6px;" />
 </div>
+
+<!-- Row 2 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="20" style="margin: 6px;" />
+</div>
+
+<!-- Row 3 (Badges) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Keras-red?logo=keras&style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Computer Vision-blue?style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Machine Learning-yellow?style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Deep Learning-purple?style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Reinforcement Learning-008080?style=flat-square" height="18" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=OpenAI&logoColor=white" height="18" style="margin: 4px;" />
+</div>
+
 <h3 align="left">📊 GitHub Stats</h3> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth0411&layout=compact&theme=rose_pine&langs_count=6" height="153" /> <img src="https://streak-stats.demolab.com?user=Hemanth0411&theme=dark&hide_border=false" height="220" /> <img src="https://github-readme-stats.vercel.app/api?username=Hemanth0411&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="250" /> </div>
 <h3 align="left">🌐 Let's Connect</h3> <div align="left"> <a href="https://www.linkedin.com/in/hemanth-reddy-annem-a144bb256"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a> <a href="mailto:hemanthreddyannem@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" /></a> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/Hemanth0411/count.svg?" /> </div>
