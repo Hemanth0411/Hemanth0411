@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin: 6px;" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/scipy/scipy-original.svg" height="50" style="margin: 6px;" />
+  <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white&style=flat-square" height="30" style="margin: 6px;" />
 </div>
 
 <div align="center">
